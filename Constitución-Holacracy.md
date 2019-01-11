@@ -2,7 +2,7 @@
 
 **PREAMBULO**
 
-Esta "Constitución" define las normas y procedimientos para la gobernanza y las operaciones de una organización. Los "Ratificadores" están adoptando estas reglas como la estructura de autoridad formal de la "Organización" especificado tras la adopción de la Constitución, que puede ser una entidad completa o parte de una que los ratificadores tienen autoridad para gobernar y gestionar. Los ratificadores y cualquier otra persona que se compromete a participar en la gobernanza y las operaciones de la Organización (sus "socios") puede confiar en las autoridades que otorga esta Constitución, y también acordar en estar obligado por sus funciones y limitaciones.
+Esta "Constitución" define las normas y procedimientos para la gobernanza y las operaciones de una organización. Los "Ratificadores" están adoptando estas reglas como la estructura de autoridad formal de la "Organización" especificada tras la adopción de la Constitución, que puede ser una entidad completa o parte de una que los ratificadores tienen autoridad para gobernar y gestionar. Los ratificadores y cualquier otra persona que se comprometa a participar en la gobernanza y las operaciones de la Organización (sus "socios") puede confiar en las autoridades que otorga esta Constitución, y también acordar en estar obligado por sus funciones y limitaciones.
 
 **Artículo I**
 
@@ -16,7 +16,7 @@ Los Socios de la Organización normalmente llevarán a cabo el trabajo de la Org
 
 (b) uno o más "dominios", que son cosas que el papel puede controlar en exclusiva y regular como su propiedad, en nombre de la Organización.
 
-(c) una o más "Responsabilidades", que son las actividades continúas de la Organización que el rol va a realizar
+(c) una o más "Responsabilidades", que son las actividades continúas de la Organización que el rol va a realizar.
 
 **1.2 RESPONSABILIDADES AL ENERGIZAR UN ROL**
 
@@ -24,7 +24,7 @@ Como socio de la Organización, tiene las siguientes responsabilidades para cada
 
 **1.2.1 PROCESAR TENSIONES**
 
-Usted es responsable de supervisar cómo el propósito y las responsabilidades de su rol son expresados, y comparar eso a su visión ideal del potencial del mismo, para identificar las brechas entre la realidad actual y un potencial percibido (cada brecha es una "tensión"). Usted también es responsable de tratar de resolver esas tensiones mediante el uso de las autoridades y otros mecanismos disponibles para usted bajo esta Constitución.
+Usted es responsable de supervisar cómo el propósito y las responsabilidades de su rol son expresados, y comparar eso con su visión ideal del potencial del mismo, para identificar las brechas entre la realidad actual y un potencial percibido (cada brecha es una "tensión"). Usted también es responsable de tratar de resolver esas tensiones mediante el uso de las autoridades y otros mecanismos disponibles para usted bajo esta Constitución.
 
 **1.2.2 PROCESAMIENTO DE PROPÓSITO Y RESPONSABILIDADES**
 
@@ -68,7 +68,7 @@ Cada Círculo utilizará el "Proceso de Gobernanza" descrito en el Artículo III
 
 **2.1.2 ROLES PUEDEN IMPACTAR LOS DOMINIOS DEL CÍRCULO**
 
-Al llenar un ROL en un círculo, es posible utilizar e impactar cualquier dominio controlado por el Círculo, o que el círculo esté autorizado a impactar. Sin embargo, se debe cumplir con todas las restricciones que actúan sobre el círculo o definidos por las Políticas del Círculo, y usted no puede controlar totalmente o regular el dominio bajo los términos de la Sección 1.4.
+Al llenar un Rol en un círculo, es posible utilizar e impactar cualquier dominio controlado por el Círculo, o que el círculo esté autorizado a impactar. Sin embargo, se debe cumplir con todas las restricciones que actúan sobre el círculo o definidos por las Políticas del Círculo, y usted no puede controlar totalmente o regular el dominio bajo los términos de la Sección 1.4.
 
 Además, usted no podrá transferir o disponer del de dominio o cualquier activo significativo dentro del dominio, ni tampoco puede limitar significativamente los derechos del Círculo sobre el Dominio. Sin embargo, estas restricciones no se aplican si el papel o el proceso sosteniendo la autoridad necesaria le proporcionen permiso para hacerlo.
 
@@ -84,11 +84,11 @@ En cualquier caso, todas las delegaciones de dominio siempre se limitan a cualqu
 
 **2.2 EL LEAD LINK DEL CÍRCULO**
 
-Cada círculo tiene un "Lead Link Rol", con la definición que figura en el Apéndice A y las responsabilidades y autoridades definidas en la presente sección. La persona que llena el Rol de Lead Link, mientras actué en esa capacidad, es referida como el "Lead Link" del círculo.
+Cada círculo tiene un "Rol Lead Link", con la definición que figura en el Apéndice A y las responsabilidades y autoridades definidas en la presente sección. La persona que llena el Rol de Lead Link, mientras actúe en esa capacidad, es referida como el "Lead Link" del círculo.
 
 **2.2.1 SOSTIENE FUNCIONES NO DIFERENCIADAS**
 
-El "Lead Link" de un círculo hereda el Propósito y las responsabilidades de su Círculo, y controla los dominios definidos en el círculo, como si el círculo fuera sólo un Rol y el “Lead Link” llenará ese rol. Sin embargo, esto sólo se aplica en la medida en que esas responsabilidades y Dominios no se han puesto sobre un Rol dentro del Círculo, o delegada de otra manera. Además, el “Lead Link” no puede definir las políticas que limitan Roles del Círculo, excepto a través del proceso de gobernanza del Círculo.
+El "Lead Link" de un círculo hereda el Propósito y las responsabilidades de su Círculo, y controla los dominios definidos en el círculo, como si el círculo fuera sólo un Rol y el “Lead Link” llenara ese rol. Sin embargo, esto sólo se aplica en la medida en que esas responsabilidades y Dominios no se han puesto sobre un Rol dentro del Círculo, o delegada de otra manera. Además, el “Lead Link” no puede definir las políticas que limitan Roles del Círculo, excepto a través del proceso de gobernanza del Círculo.
 
 **2.2.2 DEFINE PRIORIDADES Y ESTRATEGIAS**
 
@@ -96,7 +96,7 @@ El "Lead Link" de un círculo puede definir las prioridades relativas para el C�
 
 **2.2.3 MODIFICANDO EL ROL DEL "LEAD LINK"**
 
-Un círculo no puede agregar Responsabilidades u otras funciones a su propio rol de "Lead Link", o modificar el Propósito del rol, o quitar el rol por completo. Sin embargo, un círculo podrá remover las Responsabilidades, Dominios, autoridades, o funciones de su “Lead Link” rol, ya sea por su inclusión en otro rol dentro del Círculo, o mediante la definición de un medio alternativo para la realización de los mismos. Cuando esto ocurre, se elimina automáticamente el elemento o la autoridad pertinente del “Lead Link”, durante el tiempo que la delegación se mantiene en su lugar.
+Un círculo no puede agregar Responsabilidades u otras funciones a su propio rol de "Lead Link", ni modificar el Propósito del rol, ni quitar el rol por completo. Sin embargo, un círculo podrá remover las Responsabilidades, Dominios, autoridades, o funciones de su “Lead Link” rol, ya sea por su inclusión en otro rol dentro del Círculo, o mediante la definición de un medio alternativo para la realización de los mismos. Cuando esto ocurre, se elimina automáticamente el elemento o la autoridad pertinente del “Lead Link”, durante el tiempo que la delegación se mantiene en su lugar.
 
 **2.3 MIEMBROS CENTRALES DEL CÍRCULO**
 
@@ -124,7 +124,7 @@ Además, los socios que representan el rol tienen el deber de considerar y proce
 
 **2.3.3 EXCLUSIÓN DE ASIGNACIONES MENORES**
 
-A veces, un socio asigna sólo una cantidad muy pequeña, casi insignificante de la atención a un Rol definido en un círculo. Si el "Lead Link" del círculo razonablemente cree que este es el caso, el “Lead Link” puede excluir al socio de servir como un miembro central del círculo como resultado de la asignación de ese rol. 
+A veces, un socio asigna sólo una cantidad muy pequeña, casi insignificante, de la atención a un Rol definido en un círculo. Si el "Lead Link" del círculo razonablemente cree que éste es el caso, el “Lead Link” puede excluir al socio de servir como un miembro central del círculo como resultado de la asignación de ese rol.
 
 Si un socio es por lo tanto excluido, el "Lead Link" tiene el deber de considerar y procesar las tensiones transmitidas por el socio excluido, exactamente como el “Rep Link” lo haría para un “Sub Círculo”, a menos que una vía alternativa se defina para el socio excluido para procesar las tensiones relacionadas con ese Rol.
 
@@ -138,15 +138,15 @@ El "Lead  Link" de un círculo puede asignar personas para llenar roles definido
 
 **2.4.1 ROLES SIN LLENAR**
 
-Siempre que un Rol definido en un círculo este sin ser llenado, se considera que el "Lead Link" del círculo esté llenando ese rol.
+Siempre que un Rol definido en un círculo no esté llenado, se considera que el "Lead Link" del círculo está llenando ese rol.
 
 **2.4.2 ASIGNACIÓN DE ROLES A PERSONAS MÚLTIPLES**
 
 Un "Lead Link" puede asignar varias personas a un mismo rol definido, siempre y cuando eso no vaya a disminuir la claridad de quién debe promulgar las Responsabilidades y autoridades del Rol en situaciones comunes.
 
-Como una forma de mantener esa claridad, un "Lead Link" puede especificar un "Enfoque", junto con cada asignación, que es un área o contexto en el que esa persona pueda centrarse durante la ejecución del rol. 
+Como una forma de mantener esa claridad, un "Lead Link" puede especificar un "Enfoque", junto con cada asignación, que es un área o contexto en el que esa persona pueda centrarse durante la ejecución del rol.
 
-Cuando la asignación de un rol incluye un enfoque, el Propósito, Responsabilidades y Dominios definidos para el rol se aplican sólo dentro del el "Enfoque" especificado para esa persona en particular.
+Cuando la asignación de un rol incluye un enfoque, el Propósito, Responsabilidades y Dominios definidos para el rol se aplican sólo dentro del "Enfoque" especificado para esa persona en particular.
 
 **2.4.3 RENUNCIAR A UN ROL**
 
@@ -170,7 +170,7 @@ Un círculo puede añadir Responsabilidades o dominios a sus Roles electos, así
 
 **2.5.4 SUSTITUTOS PARA ROLES ELECTOS**
 
-Un sustituto puede llenar temporalmente un rol electo cuando uno esté sin ser cubierto, o cuando la persona que normalmente llena el papel no está disponible para una reunión del círculo o se siente incapaz o no está dispuesto a realizar las funciones del rol. En cualquier caso dado, donde se necesita un sustituto, el sustituto es, en este orden de prioridad:
+Un sustituto puede llenar temporalmente un rol electo cuando uno esté sin ser cubierto, o cuando la persona que normalmente llena el papel no esté disponible para una reunión del círculo o se sienta incapaz o no esté dispuesto a realizar las funciones del rol. En cualquier caso dado, donde se necesita un sustituto, el sustituto es, en este orden de prioridad:
 
 **(a)** alguien explícitamente especificado por la persona a ser sustituida; o
 
@@ -188,11 +188,11 @@ Un círculo puede ampliar sus funciones definidas en círculos completos, a trav
 
 **2.6.1 MODIFICACIÓN DE SUB-CÍRCULOS**
 
-Un círculo puede modificar el Propósito, dominio o Responsabilidades en un sub-círculo. Un círculo también puede mover sus propios roles o políticas definidas a un sub-círculo, o mover cualquiera desde dentro del sub-círculo hacía sí mismo. Cualquiera de estas modificaciones sólo podrá hacerse a través del proceso de gobernanza del Círculo. Más allá de estos cambios permitidos, un círculo no podrá modificar ningún rol o políticas mantenidas dentro de un sub-círculo definido.
+Un círculo puede modificar el Propósito, dominio o Responsabilidades en un sub-círculo. Un círculo también puede mover sus propios roles o políticas definidas a un sub-círculo, o mover cualquiera desde dentro del sub-círculo hacia sí mismo. Cualquiera de estas modificaciones sólo podrá hacerse a través del proceso de gobernanza del Círculo. Más allá de estos cambios permitidos, un círculo no podrá modificar ningún rol o políticas mantenidas dentro de un sub-círculo definido.
 
 **2.6.2 ELIMINACIÓN DE SUB-CÍRCULOS**
 
-A través de su proceso de gobernanza, un círculo puede remover a un sub-círculo. Esto se puede hacer mediante la eliminación completa del sub-círculo y todos sus elementos, o al retener selectivamente ciertos elementos del sub-círculo dentro del círculo. Un sub-círculo también puede ser removido al ser colapsado de un círculo a un solo rol. 
+A través de su proceso de gobernanza, un círculo puede remover a un sub-círculo. Esto se puede hacer mediante la eliminación completa del sub-círculo y todos sus elementos, o al retener selectivamente ciertos elementos del sub-círculo dentro del círculo. Un sub-círculo también puede ser removido al ser colapsado de un círculo a un solo rol.
 
 **2.6.3 "LEAD LINK" DE UN SUB-CÍRCULO**
 
@@ -200,7 +200,7 @@ El "Lead-Link" de un círculo puede asignar a alguien para llenar el “Lead Lin
 
 **2.6.4 "REP-LINK" DE UN SUPER-CÍRCULO**
 
-Cada Círculo normalmente elige a un "Rep-Link" para su súper-círculo. Sin embargo, esta elección no es necesaria cuando un Círculo carece de miembros centrales del el círculo distintos de los que sirven como “Lead-Links” y “Cross-Links” dentro del círculo. En este caso, incluso si se lleva a cabo la elección, el “Rep-Link” electo no se convierta en un miembro central del súper-círculo.
+Cada Círculo normalmente elige a un "Rep-Link" para su súper-círculo. Sin embargo, esta elección no es necesaria cuando un Círculo carece de miembros centrales del el círculo distintos de los que sirven como “Lead-Links” y “Cross-Links” dentro del círculo. En este caso, incluso si se lleva a cabo la elección, el “Rep-Link” electo no se convierte en un miembro central del súper-círculo.
 
 **2.7 ESTABLECER CROSS LINKS**
 
@@ -218,17 +218,17 @@ Si la entidad Vinculada carece de un propósito claro y responsabilidades claras
 
 **2.7.2 ASIGNACIÓN DE CROSS LINKS**
 
-Si la Entidad Vinculada es un círculo o grupo, este puede asignar a alguien para llenar el Cross-Link rol utilizando cualquier proceso que ya se tiene para la asignación de personas para ocupar roles definidos o funciones de trabajo similares.
+Si la Entidad Vinculada es un círculo o grupo, éste puede asignar a alguien para llenar el role de Cross Link utilizando cualquier proceso que ya se tiene para la asignación de personas para ocupar roles definidos o funciones de trabajo similares.
 
-Si una entidad vinculada representa un grupo sin foco único de autoridad para hacer esa tarea, entonces el Círculo Target puede en su lugar asignar a alguien al Cross Link Rol, salvo que se especifique lo contrario en la política del Cross Link.
+Si una entidad vinculada representa un grupo sin foco único de autoridad para hacer esa tarea, entonces el Círculo Target puede en su lugar asignar a alguien al Rol de Cross Link, salvo que se especifique lo contrario en la política del Cross Link.
 
-En todos los casos, sólo una persona puede ser asignada como Cross - link, a menos que sea permitido por una política de Cross-link. Cada vez que un rol "Cross Link" esté sin ser llenado, es considerado como no existente y no tiene asignación predeterminada 	o efecto.
+En todos los casos, sólo una persona puede ser asignada como Cross  link, a menos que sea permitido por una política de Cross-link. Cada vez que un rol "Cross Link" esté sin ser llenado, es considerado como no existente y no tiene asignación predeterminada 	o efecto.
 
-**2.7.3 AUTORIDAD DEL CROSS LINK **
+**2.7.3 AUTORIDAD DEL CROSS LINK**
 
 Un Cross Link se convierte en un miembro central del Círculo Target, y puede utilizar las autoridades de un miembro central del círculo para procesar las tensiones que se originan en el Círculo Target que limitan a la Entidad Vinculada.
 
-Sin embargo, más allá de la eliminación de limitaciones, un Cross Link no puede usar el Círculo de Target para construir más capacidades para la Entidad Vinculado, a menos que esas capacidades también ayudarán al Círculo Target a expresar su propia Propósito o Responsabilidades
+Sin embargo, más allá de la eliminación de limitaciones, un Cross Link no puede usar el Círculo de Target para construir más capacidades para la Entidad Vinculado, a menos que esas capacidades también ayudaran al Círculo Target a expresar su propia Propósito o Responsabilidades
 
 **2.7.4 ADICIONES A UN CROSS LINK ROL**
 
@@ -364,7 +364,7 @@ El facilitador debe construir una agenda de tensiones para procesar dentro de un
 
 Los participantes pueden agregar ítems adicionales a la agenda durante la reunión también, en el tiempo que hay entre el procesamiento de otros ítems.
 
-(a) Formato de ítem de agenda: Cada punto de la agenda en una reunión de Gobernanza representa una tensión para procesar, percibida por el participante que la agregó a la agenda. Al agregar un ítem a la agenda, el participante sólo puede proporcionar un nombre corto para la tensión, y no puede explicar o discutir la tensión hasta que el procesamiento de ese ítem de la agenda comience. 
+(a) Formato de ítem de agenda: Cada punto de la agenda en una reunión de Gobernanza representa una tensión para procesar, percibida por el participante que la agregó a la agenda. Al agregar un ítem a la agenda, el participante sólo puede proporcionar un nombre corto para la tensión, y no puede explicar o discutir la tensión hasta que el procesamiento de ese ítem de la agenda comience.
 
 **(b) Ordenar la Agenda:** El facilitador puede determinar el orden para procesar los ítems de la agenda, con cualquier proceso o criterio que el Facilitador estime conveniente. Sin embargo, el facilitador debe colocar los ítems de la agenda que llaman a una elección de cualquiera de los Roles electos del círculo antes que todos los demás ítems de la agenda, a petición de cualquier participante de la reunión. Además, si la reunión fue programada a petición especial de uno de los participantes, el facilitador debe poner todos los ítems de la agenda que plantea ese participante antes de cualquier ítem planteado por los demás, a menos que ese participante permita lo contrario.
 
@@ -394,7 +394,7 @@ El facilitador debe promulgar el Proceso Electoral Integrativo de la siguiente m
 
 **(b) Llenado de Boletas:** Cada participante debe entonces llenar una boleta para nominar a quien el participante cree que es la mejor opción para el rol entre todos los candidatos elegibles. Cada participante debe también marcar la boleta con su propio nombre, y nadie puede abstenerse o nombrar a varias personas. Antes y durante este paso, el facilitador debe parar inmediatamente todos los comentarios y discusión sobre los candidatos o candidaturas potenciales.
 
-**(c) Ronda de Nominación:** Una vez que se presenten todas las papeletas, el facilitador debe compartir el contenido de cada papeleta, una a la vez, con todos los participantes. Cuando el facilitador comparte una nominación, el proponente deberá indicar por qué él o ella cree que el candidato sería una buena opción para el rol. El facilitador debe detener cualquier respuesta u otros comentarios, así como cualquier comentario por un proponente acerca de otros posibles candidatos, además del candidato que eligió. 
+**(c) Ronda de Nominación:** Una vez que se presenten todas las papeletas, el facilitador debe compartir el contenido de cada papeleta, una a la vez, con todos los participantes. Cuando el facilitador comparte una nominación, el proponente deberá indicar por qué él o ella cree que el candidato sería una buena opción para el rol. El facilitador debe detener cualquier respuesta u otros comentarios, así como cualquier comentario por un proponente acerca de otros posibles candidatos, además del candidato que eligió.
 
 **(d) Ronda de Cambio de Nominación:** Una vez que todas las nominaciones son compartidas, el facilitador debe dar a cada participante la oportunidad de cambiar su nominación. Un participante que realice un cambio puede explicar su razón para seleccionar un nuevo candidato, pero el facilitador debe detener cualquier otro comentario o discusión.
 
@@ -414,7 +414,7 @@ Como socio de la Organización, uno puede usar su criterio para interpretar esta
 
 **3.4.1 LA INTERPRETACIÓN DE SECRETARIO TRIUNFA**
 
-Si tus interpretaciones no están de acuerdo con una interpretación y resolución dictada por un Secretario/a, la interpretación del Secretario triunfa por sobre la tuya y se aplica en su lugar, y usted es responsable de alinearse con ella hasta que la Gobernanza subyacente cambie. 
+Si tus interpretaciones no están de acuerdo con una interpretación y resolución dictada por un Secretario/a, la interpretación del Secretario triunfa por sobre la tuya y se aplica en su lugar, y usted es responsable de alinearse con ella hasta que la Gobernanza subyacente cambie.
 
 **3.4.2 LA INTERPRETACIÓN DE UN SUPER-CÍRCULO TRIUNFA**
 
@@ -697,4 +697,3 @@ RESPONSABILIDADES:
 • Capturando y publicando los resultados de las reuniones requeridas del Círculo, y el mantenimiento de una visión compilada de la Gobernanza actual del Círculo, artículos del Checklist y la lista de verificación y métricas
 
 • Interpretando la Gobernanza y la Constitución a petición
-
