@@ -622,19 +622,19 @@ El Círculo ANCLA no tiene Súper-círculo, y no necesita elegir a un Rep Link.
 
 **5.3 ESTRUCTURA INICIAL**
 
-El Lead Link del Círculo Ancla puede definir una estructura inicial y otros productos de Gobernanza para la Organización, por fuera del proceso de gobernanza habitual requerido por esta Constitución. Si esa estructura inicial incluye otros círculos, los Lead Links de esos círculos pueden hacer lo mismo dentro de sus círculos. Esta autoridad sólo puede utilizarse para definir una estructura inicial para un círculo para empezar, antes de que el Círculo haya comenzado a realizar su proceso de gobernanza.
+El Lead Link del Círculo Ancla puede definir una estructura inicial y otros productos de Gobernanza para la Organización, fuera del proceso de gobernanza habitual requerido por esta Constitución. Si esa estructura inicial incluye otros círculos, los Lead Links de esos círculos pueden hacer lo mismo dentro de sus círculos. Esta autoridad sólo puede utilizarse para definir una estructura inicial para un círculo para empezar, antes de que el Círculo haya comenzado a realizar su proceso de gobernanza.
 
 **5.4 POLÍTICAS Y SISTEMAS DE LEGADO**
 
-Cualquier política y sistemas existentes que la Organización tiene en vigor antes de la adopción de esta Constitución continúan en plena vigencia después de la adopción, incluso si incluyen restricciones o autoridades que no se reflejan en los registros de Gobernanza. Esto puede incluir sistemas de compensación, procesos contratación y despidos, políticas relacionadas con el trabajo, etc.
+Cualquier política y sistemas existentes que la Organización tenga en vigor antes de la adopción de esta Constitución continúan en plena vigencia después de la adopción, incluso si incluyen restricciones o autoridades que no se reflejan en los registros de Gobernanza. Esto puede incluir sistemas de compensación, procesos de contratación y despidos, políticas relacionadas con el trabajo, etc.
 
 Sin embargo, estas políticas y sistemas de legado van a perder todo el peso y la autoridad en cuanto se definan productos de Gobernanza que las reemplacen o las contradigan. Además, no pueden ser modificados o añadidos a en su forma de legado. Cualquier persona que desee hacerlo debe primero capturar o de otra manera empoderar la política o sistema a través del proceso de gobernanza que se define en la presente Constitución.
 
 **5.5 DEROGACIÓN Y ENMIENDAS A LA CONSTITUCIÓN**
 
-Los ratificadores o sus sucesores podrán modificar esta Constitución o derogarla por completo, utilizando cualquier autoridad o proceso que hayan utilizado para adoptarla. Las enmiendas deberán presentarse por escrito y ser publicadas, donde todos los socios de la Organización pueden acceder a ellas.
+Los ratificadores o sus sucesores podrán modificar esta Constitución o derogarla por completo, utilizando cualquier autoridad o proceso que hayan utilizado para adoptarla. Las enmiendas deberán presentarse por escrito y ser publicadas donde todos los socios de la Organización pueden acceder a ellas.
 
-**APENDICE A**
+**APÉNDICE A**
 
 **DEFINICIÓN DE ROLES CENTRALES**
 
@@ -692,8 +692,8 @@ DOMINIOS:
 
 RESPONSABILIDADES:
 
-• Programando reuniones requeridas del Círculo, y notificando a todos los Miembros Centrales del Círculo de horarios y lugares programados
+• Programando reuniones requeridas del Círculo, y notificando a todos los Miembros Centrales del Círculo de horarios y lugares programados.
 
 • Capturando y publicando los resultados de las reuniones requeridas del Círculo, y el mantenimiento de una visión compilada de la Gobernanza actual del Círculo, artículos del Checklist y la lista de verificación y métricas
 
-• Interpretando la Gobernanza y la Constitución a petición
+• Interpretando la Gobernanza y la Constitución a petición.
